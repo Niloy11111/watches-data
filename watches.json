@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Elegant Timepiece 349894",
+      "price": 249.99
+    },
+    {
+      "id": 2,
+      "name": "Sporty Chronograph",
+      "price": 179.95
+    },
+    {
+      "id": 3,
+      "name": "Classic Leather Watch",
+      "price": 199.50
+    },
+    {
+      "id": 4,
+      "name": "Digital Smartwatch",
+      "price": 149.99
+    },
+    {
+      "id": 5,
+      "name": "Diver's Waterproof Watch",
+      "price": 299.99
+    }
+  ]
+  
